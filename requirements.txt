@@ -1,0 +1,2 @@
+numba==0.56.4
+GraphRicciCurvature==0.5.3.1

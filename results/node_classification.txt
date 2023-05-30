@@ -1,0 +1,44 @@
+RESULTS FOR cora (brf):
+average acc: 0.864778597785978
+plus/minus:  0.002702203213530387
+
+RESULTS FOR citeseer (brf):
+average acc: 0.7242792792792793
+plus/minus:  0.0032317265771228086
+
+RESULTS FOR texas (brf):
+average acc: 0.4472972972972973
+plus/minus:  0.015123064684905707
+
+RESULTS FOR cornell (brf):
+average acc: 0.4554054054054055
+plus/minus:  0.01625895269480544
+
+RESULTS FOR wisconsin (brf):
+average acc: 0.44803921568627453
+plus/minus:  0.014316411244134752
+
+RESULTS FOR cora (brf):
+average acc: 0.7486346863468636
+plus/minus:  0.008811715403098438
+
+RESULTS FOR citeseer (brf):
+average acc: 0.59
+plus/minus:  0.009300472411408123
+
+RESULTS FOR texas (brf):
+average acc: 0.49918918918918925
+plus/minus:  0.03458999124778074
+
+RESULTS FOR cornell (brf):
+average acc: 0.39891891891891895
+plus/minus:  0.019158635744589543
+
+RESULTS FOR wisconsin (brf):
+average acc: 0.4670588235294118
+plus/minus:  0.02280843109526162
+
+RESULTS FOR chameleon (brf):
+average acc: 0.5926973684210526
+plus/minus:  0.019687643847154115
+
